@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.herobanner{
+
+    background-color: rgb(45, 134, 45);
+    
+}
+
+.page-width{
+    width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flex{
+    display:flex:
+    front: size 20px;
+}
